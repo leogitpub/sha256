@@ -2,7 +2,7 @@
  * `sha256.dwl`, an implementation written purely in Dataweave by `Omkaram Venkatesh`, August 2021. All Rights Reserved.
  * 
  * 
- * This piece of work is entirely written from scratch by the Author who is mentioned above, and it does not contain any external code references.
+ * This is the Initial Version of the script (sha256-0.1.0.dwl). It is entirely written from scratch by the Author who is mentioned above, and it does not contain any external code references.
  * 
  * SHA-256 message digest is a very popular and a widely used Cryptographic Hash Algorithm. There are a variety of ways one can achieve this implementation, 
  * but the main goal here is to do SHA256 in one single script file by extensively using tail recursions in a way that no one could ever think of.
